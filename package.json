@@ -15,5 +15,6 @@
     "vite": "^4"
   },
   "dependencies": {
+    "pocketbase": "^0.21.5"
   }
 }
